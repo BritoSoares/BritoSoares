@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @BritoSoares
 - 👀 I’m interested in AI, in C/C++, Python, Java.
-- 🌱 I’m currently learning everything .
-- 💞️ I’m looking to collaborate ...
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate in real problem solving
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I`m a biomedical engineering student.
+- ⚡ Fun fact:.
 
 <!---
 BritoSoares/BritoSoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
